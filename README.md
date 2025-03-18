@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> College CoST</title>
+       
         <link rel=" icon" type=" image/icon" href="icon.jpg">
     </head>
     <body style=" background-color:lightgray;">
